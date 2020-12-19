@@ -9,11 +9,11 @@ We have been appointed as the Lead Data Analysts to build a predictive model to 
 
 -William okomba <willokomba@gmail.com
 
-kimani.roy@gmail.com 
+Kimani Roy <kimani.roy@gmail.com 
 
-cherono.mj@gmail.com
+Mercy Cheruiyot <cherono.mj@gmail.com
 
-ndutaruthmuriithi@gmail.com
+Nduta Muriithi <ndutaruthmuriithi@gmail.com
 
 ## lisence & copyright
 
