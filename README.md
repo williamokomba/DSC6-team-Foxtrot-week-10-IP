@@ -18,6 +18,9 @@ Nduta Muriithi <ndutaruthmuriithi@gmail.com
 ## lisence & copyright
 
 william okomba, molinga school Data science student.
+
 Kimani Roy, molinga school Data science student.
+
 Nduta Muriithi, molinga school Data science student.
+
 Mercy Cheruiyot, molinga school Data science student.
